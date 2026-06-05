@@ -1,6 +1,4 @@
 # leoterm
-terminal app 
-# leoterm
 
 A native macOS terminal emulator built with Swift and AppKit.
 
